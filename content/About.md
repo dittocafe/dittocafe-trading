@@ -10,6 +10,11 @@ description: About this site, its purpose, and the way these notes are organized
 我目前以 Al Brooks 体系为主线，持续整理课程笔记、交易规则、playbook 和复盘案例。
 未来也会为 A 股、美股、个股与产业研究保留空间，但当前主线仍然是价格行为学与交易系统整理。
 
+联系我：[[contact | Contact]]
+
+---
+
+
 # Dittocafe.com 的由来
 
 很多年以前，在青岛做项目。
