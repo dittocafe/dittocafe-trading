@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33B Protective Stops
+title: V33B Protective Stops
 description: 止损：止损被打到以后，正确地设定止损
 tags:
   - al-brooks

@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33G Protective Stops
+title: V33G Protective Stops
 description: 止损：“打平止损法”，剥头皮的止损设置
 tags:
   - al-brooks

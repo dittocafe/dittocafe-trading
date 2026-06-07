@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33E Protective Stops
+title: V33E Protective Stops
 description: 止损：宽止损
 tags:
   - al-brooks

@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33F Protective Stops
+title: V33F Protective Stops
 description: 止损：MM和其他支撑&阻力，小的信号K
 tags:
   - al-brooks

@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33A Protective Stops
+title: V33A Protective Stops
 description: 止损：为什么要止损？止损决定仓位大小
 tags:
   - al-brooks

@@ -1,9 +1,10 @@
 ---
-title: 课程 | V34B Actual Risk
+title: V34B Actual Risk
 description: 实际的风险
 tags:
   - al-brooks
 ---
+
 - Small Actual Risk is useless
 - Use risk to find profi targets
 

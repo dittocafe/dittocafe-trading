@@ -1,5 +1,5 @@
 ---
-title: 课程 | V34A Actual Risk
+title: V34A Actual Risk
 description: 实际的风险
 tags:
   - al-brooks

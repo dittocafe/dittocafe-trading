@@ -1,5 +1,5 @@
 ---
-title: 课程 | V33D Protective Stops
+title: V33D Protective Stops
 description: 止损：尊重主要的回调，如果进场的setup不再成立就离场
 tags:
   - al-brooks
