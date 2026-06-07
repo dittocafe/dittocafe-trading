@@ -22,10 +22,13 @@ export const onRequestPost = async (context) => {
     body: verifyForm,
   })
 
-  const verify = await verifyRes.json()
-  if (!verify.success) {
-    return new Response("Turnstile failed", { status: 400 })
-  }
+const verify = await verifyRes.json()
+if (!verify.success) {
+  return new Response(JSON.stringify(verify, null, 2), {
+    status: 400,
+    headers: { "content-type": "application/json" },
+  })
+}
 
   const mailRes = await fetch("https://api.mailchannels.net/tx/v1/send", {
     method: "POST",

@@ -2,9 +2,7 @@
 title: Contact
 ---
 
-# Contact
-
-有事想联系我，可以用下面的表单。
+联系我，可以用下面的表单。
 
 <form action="/contact" method="POST">
   <p>
@@ -27,7 +25,7 @@ title: Contact
     <textarea name="message" rows="8" required></textarea></label>
   </p>
 
-  <div class="cf-turnstile" data-sitekey="你的_SITE_KEY"></div>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAADgUVEYULc3bPdUHa_YuMM1oiBc"></div>
 
   <p>
     <button type="submit">Send</button>
