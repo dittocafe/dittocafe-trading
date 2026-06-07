@@ -3,7 +3,6 @@ title: Now
 description: What I am currently focusing on in trading, study, and review.
 ---
 
-# Now
 
 当前主线：
 - 系统学习 Al Brooks 官方课程

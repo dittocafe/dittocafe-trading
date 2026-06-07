@@ -1,7 +1,6 @@
 ---
 title: Weekly Reviews
 ---
-# Weekly
 
 这里放每周复盘。
 
