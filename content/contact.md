@@ -2,6 +2,8 @@
 title: Contact
 ---
 
+# Contact
+
 联系我，可以用下面的表单。
 
 <form action="/contact" method="POST">
@@ -16,7 +18,7 @@ title: Contact
   </p>
 
   <p style="display:none;">
-    <label>Company
+    <label>Company<br />
     <input type="text" name="company" tabindex="-1" autocomplete="off" /></label>
   </p>
 
