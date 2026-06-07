@@ -197,7 +197,7 @@ plugins:
     enabled: true
     options:
       links:
-        Dittocafe.com 主站: [http://dittocafe.com](http://dittocafe.com)
+        Dittocafe.com-主站: http://dittocafe.com
         GitHub: https://github.com/jackyzha0/quartz
   - source: github:quartz-community/recent-notes
     enabled: false
