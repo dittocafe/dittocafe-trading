@@ -3,7 +3,7 @@ title: About
 description: About this site, its purpose, and the way these notes are organized.
 ---
  
- ## About
+ # About
 
 这是一个围绕价格行为学、交易执行、读书和复盘建立的个人学习站。
 
