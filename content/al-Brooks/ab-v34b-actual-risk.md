@@ -1,10 +1,8 @@
 ---
 title: 课程 | V34B Actual Risk
-date: 2026-06-02
 description: 实际的风险
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Small Actual Risk is useless
 - Use risk to find profi targets

@@ -1,3 +1,9 @@
+---
+title: Reading
+description: Reading notes, chapter summaries, and distilled lessons from trading books.
+---
+
+
 # Reading
 
 这里放 Al Brooks 之外的读书笔记。

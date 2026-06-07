@@ -1,10 +1,8 @@
 ---
 title: 课程 | V33G Protective Stops
-date: 2026-06-01
 description: 止损：“打平止损法”，剥头皮的止损设置
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Breakeven stops and BO tests
 - Stops for scalpers

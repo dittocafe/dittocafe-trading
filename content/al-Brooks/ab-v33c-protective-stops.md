@@ -3,8 +3,7 @@ title: 课程 | V33C Protective Stops
 date: 2026-05-30
 description: A止损：价格行为止损，上升趋势需要更高的低点，移动止损，下降趋势中的止损
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Price action stop
 - Bulls need Higher Lows

@@ -1,10 +1,8 @@
 ---
 title: 课程 | V33B Protective Stops
-date: 2026-05-28
 description: 止损：止损被打到以后，正确地设定止损
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - After a stop is hit
 

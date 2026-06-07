@@ -1,10 +1,8 @@
 ---
 title: 课程 | V33D Protective Stops
-date: 2026-05-31
 description: 止损：尊重主要的回调，如果进场的setup不再成立就离场
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Trends respect major pullbacks
 - Exit if premise changes

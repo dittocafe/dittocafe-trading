@@ -1,5 +1,6 @@
 ---
 title: DittoCafe
+description: Personal notes on price action, trading playbooks, reviews, and structured learning.
 ---
 
 # DittoCafe
@@ -9,12 +10,12 @@ title: DittoCafe
 以 Al Brooks 为主线，连接读书、规则、playbook 和复盘，公开记录一个交易学习系统如何慢慢长出来。
 
 ## 从这里开始
-- [[Start Here]]
+- [[start-here]]
 - [[al-Brooks/index]]
-- [[Reading/Index]]
-- [[Rules/Index]]
-- [[Playbooks/Index]]
-- [[Reviews/Index]]
+- [[content/reading/index]]
+- [[content/rules/index]]
+- [[content/playbooks/index]]
+- [[content/reviews/index]]
 
 ## 当前重点
 - 主线：系统学习 Al Brooks 官方课程

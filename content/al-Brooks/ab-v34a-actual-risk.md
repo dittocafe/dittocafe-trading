@@ -1,10 +1,8 @@
 ---
 title: 课程 | V34A Actual Risk
-date: 2026-06-02
 description: 实际的风险
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Trader's Equation and risk
 - Actual Risk

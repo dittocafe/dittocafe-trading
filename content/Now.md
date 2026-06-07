@@ -1,3 +1,8 @@
+---
+title: Now
+description: What I am currently focusing on in trading, study, and review.
+---
+
 # Now
 
 当前主线：

@@ -1,3 +1,8 @@
+---
+title: Al Brooks
+description: Notes and distilled lessons from studying Al Brooks and price action concepts.
+---
+
 # Al Brooks
 
 这里记录我系统学习 Al Brooks 官方课程的笔记。

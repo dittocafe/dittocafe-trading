@@ -1,10 +1,8 @@
 ---
 title: 课程 | V33A Protective Stops
-date: 2026-05-31
 description: 止损：为什么要止损？止损决定仓位大小
 tags:
-  - 课程笔记
-weight:
+  - al-brooks
 ---
 - Why use stops?
 

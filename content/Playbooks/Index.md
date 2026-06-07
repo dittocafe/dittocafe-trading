@@ -1,5 +1,8 @@
-# Playbooks
+---
+title: Playbooks
+description: Core trading playbooks for entries, context, and execution.
+---
 
-这里放我真正长期重复做的 setup。
+# Playbooks 
 
-数量不会很多，但每一页都会作为高权重节点，被复盘、课程笔记和周记反复链接。
+这里整理我的交易执行模型、入场框架与操作手册。

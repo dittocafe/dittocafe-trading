@@ -1,3 +1,7 @@
+---
+title: Rules
+description: Trading rules, constraints, and decision standards I want to follow consistently.
+---
 # Rules
 
 这里放少量长期有效的交易原则。
