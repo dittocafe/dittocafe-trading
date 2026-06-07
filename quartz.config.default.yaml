@@ -7,8 +7,8 @@ configuration:
   analytics:
     provider: google
     tagId: G-GVYEQHG37S
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: zh-CN
+  baseUrl: trading.dittocafe.com
   ignorePatterns:
     - private
     - templates
