@@ -7,3 +7,5 @@ description: Trading rules, constraints, and decision standards I want to follow
 这里放少量长期有效的交易原则。
 
 每条规则本身可能很短，但会通过复盘、课程笔记和周记不断被验证、补充和链接。
+
+
