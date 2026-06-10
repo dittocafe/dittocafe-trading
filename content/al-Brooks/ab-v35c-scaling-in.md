@@ -1,11 +1,12 @@
 ---
-title: V35B Scaling in
-description: 如何在浮亏的时候加仓
+title: V35C Scaling in
+description: 示例策略：2部分和4部分
 tags:
   - al-brooks
 ---
 
-- Scaling into losing position
+- Sample strategy: 2 parts (Emini 2 contracts)
+- Sample strategy: 4 parts (Forex 400k units)
 
 - 本节讲了在浮亏的情况下加仓，在开仓之后，市场反向移动，但此时你的入场前提还是成立的。如果你的仓位足够小，并且设置了正确的止损，你可以iz浮亏的情况下加仓，以此来扭亏为盈，或者至少避免亏损，
 - 

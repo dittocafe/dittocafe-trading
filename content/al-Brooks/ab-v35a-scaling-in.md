@@ -1,5 +1,5 @@
 ---
-title: V34B Actual Risk
+title: V35A Scaling in
 description: 建仓
 tags:
   - al-brooks
