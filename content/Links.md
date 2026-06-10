@@ -1,5 +1,5 @@
 ---
-title: Resources 链接
+title: Resources
 description: 我认为重要的一些链接。
 ---
 
