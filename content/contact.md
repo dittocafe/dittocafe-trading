@@ -1,5 +1,6 @@
 ---
 title: Contact
+hiddenInHomeList: true
 ---
 
 # Contact
