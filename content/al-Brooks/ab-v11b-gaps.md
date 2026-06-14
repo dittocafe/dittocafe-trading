@@ -1,5 +1,5 @@
 ---
-title: V36A Gaps
+title: V11B Gaps
 description: 均线缺口和竭尽型缺口
 tags:
   - al-brooks

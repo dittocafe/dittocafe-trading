@@ -1,5 +1,5 @@
 ---
-title: V36A Gaps
+title: V11C Gaps
 description: 小缺口，跳空开盘缺口，缺口意味着强势的趋势，负缺口
 tags:
   - al-brooks
