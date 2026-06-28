@@ -1,5 +1,5 @@
 ---
-title: V37A How to trade
+title: V37B How to trade
 description: 市场可以做什么？
 tags:
   - al-brooks
