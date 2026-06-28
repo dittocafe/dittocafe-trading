@@ -1,5 +1,5 @@
 ---
-title: V38C Lower High Major Trend Reversal
+title: V38C Trading MTR Tops
 description: 高点降低的大反转结构
 tags:
   - al-brooks

@@ -1,5 +1,5 @@
 ---
-title: V38B Plan to take profits
+title: V38B Trading MTR Tops
 description: 止盈计划
 tags:
   - al-brooks
