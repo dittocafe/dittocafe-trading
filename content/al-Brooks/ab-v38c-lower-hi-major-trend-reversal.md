@@ -1,0 +1,10 @@
+---
+title: V38C Lower High Major Trend Reversal
+description: 高点降低的大反转结构
+tags:
+  - al-brooks
+---
+
+- Lower High Major Trend Reversal
+
+- 主要讲高点降低的大反转结构，就像所有的大反转结构一样，有40%的概率可以形成反转的波段。波段的意思是：利润至少等于两倍实际风险或初始风险。通常会持续两段，以及至少20根K线。如果你的入场是合理的，那么至少有40%的概率可以转到波段。因为盈亏比足够好，所以可以弥补概率的不足，仍然是可以盈利的策略。
